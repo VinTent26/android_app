@@ -22,5 +22,7 @@
         android:textStyle="bold"
         tools:ignore="MissingConstraints"
         tools:text="22115053122339-Hồ Văn Thanh" />
+    <include
+        layout="@layout/login"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
